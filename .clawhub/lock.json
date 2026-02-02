@@ -1,0 +1,77 @@
+{
+  "version": 1,
+  "skills": {
+    "email": {
+      "version": "1.1.0",
+      "installedAt": 1769961559660
+    },
+    "home-assistant": {
+      "version": "1.0.0",
+      "installedAt": 1769961563676
+    },
+    "calendar": {
+      "version": "1.0.0",
+      "installedAt": 1769961567255
+    },
+    "todoist": {
+      "version": "0.2.1",
+      "installedAt": 1769961571557
+    },
+    "security-monitor": {
+      "version": "1.0.0",
+      "installedAt": 1769961584769
+    },
+    "news-summary": {
+      "version": "1.0.1",
+      "installedAt": 1769961592344
+    },
+    "crypto-wallet": {
+      "version": "1.0.1",
+      "installedAt": 1769962521018
+    },
+    "plex": {
+      "version": "1.0.0",
+      "installedAt": 1769962524935
+    },
+    "therapy-mode": {
+      "version": "1.1.0",
+      "installedAt": 1769962786660
+    },
+    "legaldoc-ai": {
+      "version": "1.0.0",
+      "installedAt": 1769962813064
+    },
+    "cross-pollination-engine": {
+      "version": "1.0.0",
+      "installedAt": 1769967755993
+    },
+    "clawflows": {
+      "version": "1.0.0",
+      "installedAt": 1769967762505
+    },
+    "weather": {
+      "version": "1.0.0",
+      "installedAt": 1769967787594
+    },
+    "mac-tts": {
+      "version": "1.0.0",
+      "installedAt": 1769967795170
+    },
+    "project-agora": {
+      "version": "0.1.0",
+      "installedAt": 1770002317260
+    },
+    "github": {
+      "version": "1.0.0",
+      "installedAt": 1770002323405
+    },
+    "web-deploy-github": {
+      "version": "1.0.0",
+      "installedAt": 1770002327916
+    },
+    "evoweb-ai": {
+      "version": "1.0.3",
+      "installedAt": 1770002331496
+    }
+  }
+}
